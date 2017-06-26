@@ -6,7 +6,7 @@
 <body>
 	<?php
 	////php -S 127.0.0.1:8000
-		$teamsList = array("1", "2", "3", "4", "5", "6");
+		$teamsList = array("CA Brive", "Lyon OU", "Oyonnax Rugby", "Racing 92", "Stade Rochelais", "Stade Français Paris", "Stade Toulousain");
 		$teamsLength = count($teamsList);
 		$days = [];
 		
